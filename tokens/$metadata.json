@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "layout",
+    "admin/one",
+    "admin/two",
+    "admin/three",
+    "theme/light",
+    "theme/dark"
+  ]
+}
