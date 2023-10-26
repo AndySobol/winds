@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "0fed8234d4191a4ea1e2c01eb08164bdb499c975",
+    "name": "one",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "admin/one": "enabled",
+      "palette": "source"
+    },
+    "group": "admin"
+  },
+  {
+    "id": "2ee9700e841381dc505ec31da4cdfce234e2fcf6",
+    "name": "two",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "admin/two": "enabled",
+      "palette": "source"
+    },
+    "group": "admin"
+  },
+  {
+    "id": "36dc1ad673475d46aba4e431fa4211bfae8c4f3b",
+    "name": "three",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "admin/three": "enabled",
+      "palette": "source"
+    },
+    "group": "admin"
+  },
+  {
+    "id": "fc2da52563236f4f66d311eaac6e33b5ad98b820",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "layout": "enabled",
+      "admin/one": "source",
+      "admin/two": "source",
+      "admin/three": "source",
+      "theme/light": "enabled",
+      "palette": "source"
+    },
+    "group": "theme"
+  },
+  {
+    "id": "eb3ac3929e9bbcaa7bdc908c3c12f93d304b349f",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "layout": "enabled",
+      "admin/one": "source",
+      "admin/two": "source",
+      "admin/three": "source",
+      "theme/dark": "enabled",
+      "palette": "source"
+    },
+    "group": "theme"
+  }
+]

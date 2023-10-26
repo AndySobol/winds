@@ -1,5 +1,6 @@
 {
   "tokenSetOrder": [
+    "palette",
     "core",
     "layout",
     "admin/one",

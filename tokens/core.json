@@ -1,1 +1,16 @@
-{}
+{
+  "fontFamilies": {
+    "sfpro": {
+      "value": "SF Pro",
+      "type": "fontFamilies"
+    },
+    "roboto": {
+      "value": "Roboto",
+      "type": "fontFamilies"
+    },
+    "segoe": {
+      "value": "Segoe UI",
+      "type": "fontFamilies"
+    }
+  }
+}
