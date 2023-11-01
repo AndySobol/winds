@@ -1,1 +1,378 @@
-{}
+{
+  "color": {
+    "layers": {
+      "body": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "focus": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "primary": {
+        "default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "selected": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "selected-hover": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "selected": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "selected-hover": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "tertiary": {
+        "default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "selected": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "selected-hover": {
+          "value": "#000000",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "contast": {
+        "primary": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "oncolor": {
+        "primary": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "support": {
+        "accent": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "link": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "success": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "caution": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "critical": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "info": {
+          "value": "#000000",
+          "type": "color"
+        }
+      }
+    },
+    "border": {
+      "contast": {
+        "primary": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "oncolor": {
+        "primary": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "support": {
+        "accent": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "link": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "success": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "caution": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "critical": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "info": {
+          "value": "#000000",
+          "type": "color"
+        }
+      }
+    },
+    "button": {
+      "primary": {
+        "default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "focused": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "focused": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "tertiary": {
+        "default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "focused": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "critical": {
+        "default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "focused": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "value": "#",
+        "type": "color"
+      }
+    },
+    "field": {
+      "primary": {
+        "default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "focused": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "focused": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "tertiary": {
+        "default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "focused": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "value": "#",
+        "type": "color"
+      }
+    }
+  }
+}
