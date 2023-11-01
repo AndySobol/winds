@@ -2,7 +2,6 @@
   "tokenSetOrder": [
     "palette",
     "core",
-    "layout",
     "admin/one",
     "admin/two",
     "admin/three",

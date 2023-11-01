@@ -5,7 +5,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "admin/one": "enabled",
-      "palette": "source"
+      "palette": "source",
+      "core": "source"
     },
     "group": "admin"
   },
@@ -15,7 +16,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "admin/two": "enabled",
-      "palette": "source"
+      "palette": "source",
+      "core": "source"
     },
     "group": "admin"
   },
@@ -25,7 +27,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "admin/three": "enabled",
-      "palette": "source"
+      "palette": "source",
+      "core": "source"
     },
     "group": "admin"
   },
@@ -35,7 +38,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "layout": "enabled",
       "admin/one": "source",
       "admin/two": "source",
       "admin/three": "source",
@@ -50,7 +52,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "layout": "enabled",
       "admin/one": "source",
       "admin/two": "source",
       "admin/three": "source",
