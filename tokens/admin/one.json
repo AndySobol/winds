@@ -1,35 +1,7 @@
 {
   "REMBASE": {
-    "value": "12",
+    "value": "16",
     "type": "fontSizes"
-  },
-  "Headline": {
-    "value": {
-      "fontFamily": "{fontFamilies.sfpro}",
-      "fontWeight": "{fontWeights.600}",
-      "lineHeight": "{lineHeights.110}",
-      "fontSize": "{fontSizes.x19}",
-      "letterSpacing": "{letterSpacing.0}",
-      "paragraphSpacing": "{paragraphSpacing.000}",
-      "textDecoration": "{textDecoration.none}",
-      "textCase": "{textCase.none}",
-      "paragraphIndent": "0"
-    },
-    "type": "typography"
-  },
-  "Description": {
-    "value": {
-      "fontFamily": "{fontFamilies.sfpro}",
-      "fontWeight": "{fontWeights.600}",
-      "lineHeight": "{lineHeights.130}",
-      "fontSize": "{fontSizes.x1}",
-      "letterSpacing": "{letterSpacing.0}",
-      "paragraphSpacing": "{paragraphSpacing.000}",
-      "textDecoration": "{textDecoration.none}",
-      "textCase": "{textCase.none}",
-      "paragraphIndent": "0"
-    },
-    "type": "typography"
   },
   "test": {
     "value": "$scale.00500",

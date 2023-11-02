@@ -39,8 +39,6 @@
     "selectedTokenSets": {
       "core": "source",
       "admin/one": "source",
-      "admin/two": "source",
-      "admin/three": "source",
       "theme/light": "enabled",
       "palette": "source"
     },

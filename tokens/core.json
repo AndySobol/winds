@@ -453,76 +453,52 @@
       "value": "$scale.00500",
       "type": "fontSizes"
     },
-    "010": {
-      "value": "1rem",
+    "x2": {
+      "value": "$scale.00625",
       "type": "fontSizes"
     },
-    "012": {
-      "value": "$scale.00500",
+    "x3": {
+      "value": "$scale.00750",
       "type": "fontSizes"
     },
-    "014": {
-      "value": "$scale.00500",
+    "x4": {
+      "value": "$scale.00875",
       "type": "fontSizes"
     },
-    "016": {
-      "value": "$scale.00500",
+    "x5": {
+      "value": "$scale.01000",
       "type": "fontSizes"
     },
-    "018": {
-      "value": "$scale.00500",
+    "x6": {
+      "value": "$scale.01125",
       "type": "fontSizes"
     },
-    "020": {
-      "value": "$scale.00500",
+    "x7": {
+      "value": "$scale.01250",
       "type": "fontSizes"
     },
-    "024": {
-      "value": "$scale.00500",
+    "x8": {
+      "value": "$scale.01500",
       "type": "fontSizes"
     },
-    "028": {
-      "value": "$scale.00500",
+    "x9": {
+      "value": "$scale.02000",
       "type": "fontSizes"
     },
-    "032": {
-      "value": "$scale.00500",
+    "x10": {
+      "value": "$scale.02250",
       "type": "fontSizes"
     },
-    "036": {
-      "value": "$scale.00500",
-      "type": "fontSizes"
-    },
-    "040": {
-      "value": "$scale.00500",
-      "type": "fontSizes"
-    },
-    "048": {
-      "value": "$scale.00500",
-      "type": "fontSizes"
-    },
-    "056": {
-      "value": "$scale.00500",
-      "type": "fontSizes"
-    },
-    "060": {
-      "value": "$scale.00500",
-      "type": "fontSizes"
-    },
-    "064": {
-      "value": "$scale.00500",
-      "type": "fontSizes"
-    },
-    "072": {
-      "value": "$scale.00500",
-      "type": "fontSizes"
-    },
-    "080": {
-      "value": "$scale.00500",
-      "type": "fontSizes"
-    },
-    "x19": {
+    "x11": {
       "value": "$scale.03000",
+      "type": "fontSizes"
+    },
+    "x12": {
+      "value": "$scale.03750",
+      "type": "fontSizes"
+    },
+    "x13": {
+      "value": "$scale.04500",
       "type": "fontSizes"
     }
   },
@@ -561,6 +537,10 @@
       "value": "0.5rem",
       "type": "dimension"
     },
+    "00625": {
+      "value": "0.625rem",
+      "type": "dimension"
+    },
     "00750": {
       "value": "0.75rem",
       "type": "dimension"
@@ -575,6 +555,10 @@
     },
     "01125": {
       "value": "1.125rem",
+      "type": "dimension"
+    },
+    "01250": {
+      "value": "1.25rem",
       "type": "dimension"
     },
     "01500": {
@@ -665,9 +649,5 @@
       "value": "10rem",
       "type": "dimension"
     }
-  },
-  "test": {
-    "value": "$scale.00500",
-    "type": "spacing"
   }
 }
