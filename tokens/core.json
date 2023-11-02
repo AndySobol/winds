@@ -503,25 +503,81 @@
     }
   },
   "lineHeights": {
-    "100": {
-      "value": "100%",
-      "type": "lineHeights"
+    "parent": {
+      "100": {
+        "value": "100%",
+        "type": "lineHeights"
+      },
+      "110": {
+        "value": "110%",
+        "type": "lineHeights"
+      },
+      "130": {
+        "value": "130%",
+        "type": "lineHeights"
+      },
+      "150": {
+        "value": "150%",
+        "type": "lineHeights"
+      },
+      "160": {
+        "value": "160%",
+        "type": "lineHeights"
+      }
     },
-    "110": {
-      "value": "110%",
-      "type": "lineHeights"
-    },
-    "130": {
-      "value": "130%",
-      "type": "lineHeights"
-    },
-    "150": {
-      "value": "150%",
-      "type": "lineHeights"
-    },
-    "160": {
-      "value": "160%",
-      "type": "lineHeights"
+    "rem": {
+      "x1": {
+        "value": "$scale.00625",
+        "type": "lineHeights"
+      },
+      "x2": {
+        "value": "$scale.00750",
+        "type": "lineHeights"
+      },
+      "x3": {
+        "value": "$scale.01000",
+        "type": "lineHeights"
+      },
+      "x4": {
+        "value": "$scale.01250",
+        "type": "lineHeights"
+      },
+      "x5": {
+        "value": "$scale.01500",
+        "type": "lineHeights"
+      },
+      "x6": {
+        "value": "$scale.01750",
+        "type": "lineHeights"
+      },
+      "x7": {
+        "value": "$scale.01875",
+        "type": "lineHeights"
+      },
+      "x8": {
+        "value": "$scale.02000",
+        "type": "lineHeights"
+      },
+      "x9": {
+        "value": "$scale.02500",
+        "type": "lineHeights"
+      },
+      "x10": {
+        "value": "$scale.02750",
+        "type": "lineHeights"
+      },
+      "x11": {
+        "value": "$scale.03750",
+        "type": "lineHeights"
+      },
+      "x12": {
+        "value": "$scale.04500",
+        "type": "lineHeights"
+      },
+      "x13": {
+        "value": "$scale.05625",
+        "type": "lineHeights"
+      }
     }
   },
   "scale": {
@@ -567,6 +623,10 @@
     },
     "01750": {
       "value": "1.75rem",
+      "type": "dimension"
+    },
+    "01875": {
+      "value": "1.875rem",
       "type": "dimension"
     },
     "02000": {
@@ -635,6 +695,10 @@
     },
     "05500": {
       "value": "5.5rem",
+      "type": "dimension"
+    },
+    "05625": {
+      "value": "5.625rem",
       "type": "dimension"
     },
     "05750": {
